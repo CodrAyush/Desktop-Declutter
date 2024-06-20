@@ -1,6 +1,6 @@
-# File Organizer
+# Desktop Declutter
 
-File Organizer is a Python script designed to organize files on your desktop by moving them into custom folders based on their file types and sorting them by modification date. The script also backs up files before moving them to ensure data safety.
+Desktop Declutter is a Python script designed to organize files on your desktop by moving them into custom folders based on their file types and sorting them by modification date. The script also backs up files before moving them to ensure data safety.
 
 ## Features
 
