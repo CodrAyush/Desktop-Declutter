@@ -5,7 +5,7 @@ import argparse
 from datetime import datetime
 import logging
 
-# Set up logging
+# setting up logging
 logging.basicConfig(filename='file_organizer.log', level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
