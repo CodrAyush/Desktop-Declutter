@@ -36,7 +36,7 @@ Create a `config.json` file in the root directory with the following structure:
 
 ```json
 {
-    // # Replace "C:\Users\vikra\OneDrive\Desktop" with your own Absolute File Path
+    // # Replace "C:\Users\abc\OneDrive\Desktop" with your own Absolute File Path
     "desktop_path": "C:\\Users\\YourUsername\\Desktop",
     "custom_folders": {
         "Photos": [".png", ".jpg", ".jpeg", ".gif"],
