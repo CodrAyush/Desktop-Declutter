@@ -114,6 +114,4 @@ Feel free to:
 - Suggest new features
 - Improve documentation
 
-## License
 
-This project is licensed under the terms included in the LICENSE file.
