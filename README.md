@@ -19,7 +19,7 @@ Desktop Declutter is a Python script designed to organize files on your desktop 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/File-Organizer.git
+git clone https://github.com/CodrAyush/File-Organizer.git
 cd File-Organizer
 ```
 
